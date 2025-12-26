@@ -1,4 +1,4 @@
- # RecipeBox – Documentație UI
+  # RecipeBox – Documentație UI
 
 ## 1. Pagina principală – Listă rețete
 
