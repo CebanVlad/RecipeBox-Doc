@@ -59,4 +59,4 @@ Pagina conține:
 
 🔗 Prototip interactiv RecipeBox:
 
-👉 **[AICI INSEREZI LINK-UL TĂU Figma]**
+👉 (https://www.figma.com/design/rwDHvihfIPlBS2mwyc5TO2/RecipeBox-UI?node-id=0-1&t=ITdkaGJfBrx9kAJS-1)
